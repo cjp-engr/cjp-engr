@@ -26,7 +26,7 @@
 
 * Python
 
-**Cetificates**
+**Certificates**
 
 * Effective Feedback to Shine at Work and in Life - https://www.udemy.com/certificate/UC-135463ed-2f1b-4135-8df8-04dd8b4b95f5
 * Java For Everyone - Zero to Hero - https://www.udemy.com/certificate/UC-a6a3b19e-ca49-49b6-b06d-f36c8c108239
