@@ -36,4 +36,5 @@
 * The Complete Python 3 Course: Beginner to Advanced! - https://www.udemy.com/certificate/UC-4427887a-245f-4190-9e2e-47054fe4ed03
 * The Empathy Principle - Emotional Intelligence - EIQ-2 - https://www.udemy.com/certificate/UC-b20df1d9-e0c6-48a8-8e7a-6dead54d9310
 * The Complete TypeScript Programming Guide for Web Developers - https://www.eduonix.com/certificate/e04512ad5b
+* Learn To Build A Google Map App Using Angular 2 - https://www.eduonix.com/certificate/236e156201
 
