@@ -14,13 +14,15 @@
 
 * Library Management System using Angular and Firebase.
 
-**Programming Languages/Framework/Tools I am familiar:**
+**Programming Languages/Framework/Tools/Technologies I am familiar:**
 
 * Java, C#, Typescript
 
 * Angular
 
 * HTML, CSS
+
+* Eclipse, VSCode
 
 **On my bucket list:**
 
