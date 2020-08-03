@@ -39,3 +39,18 @@
 * Learn To Build A Google Map App Using Angular 2 - https://www.eduonix.com/certificate/236e156201
 
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596444975911.png">
+
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body {
+  background-image: url("img_tree.gif");
+  background-color: #cccccc;
+}
+</style>
+</head>
+<body>
+hello
+</body>
+</html>
