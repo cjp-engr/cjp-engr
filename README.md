@@ -38,3 +38,4 @@
 * The Complete TypeScript Programming Guide for Web Developers - https://www.eduonix.com/certificate/e04512ad5b
 * Learn To Build A Google Map App Using Angular 2 - https://www.eduonix.com/certificate/236e156201
 
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596444975911.png">
