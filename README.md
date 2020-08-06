@@ -37,3 +37,4 @@
 * The Empathy Principle - Emotional Intelligence - EIQ-2 - https://www.udemy.com/certificate/UC-b20df1d9-e0c6-48a8-8e7a-6dead54d9310
 * The Complete TypeScript Programming Guide for Web Developers - https://www.eduonix.com/certificate/e04512ad5b
 * Learn To Build A Google Map App Using Angular 2 - https://www.eduonix.com/certificate/236e156201
+* Blockchain Web Development on Ethereum [2020] - https://www.udemy.com/certificate/UC-b8283afc-36d4-405e-9fdb-0f2334c80a88
