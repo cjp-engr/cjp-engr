@@ -38,3 +38,4 @@
 * The Complete TypeScript Programming Guide for Web Developers - https://www.eduonix.com/certificate/e04512ad5b
 * Learn To Build A Google Map App Using Angular 2 - https://www.eduonix.com/certificate/236e156201
 * Blockchain Web Development on Ethereum [2020] - https://www.udemy.com/certificate/UC-b8283afc-36d4-405e-9fdb-0f2334c80a88
+* Continuous integration with Jenkins. - https://www.eduonix.com/certificate/bab6f5118e
