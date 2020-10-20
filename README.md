@@ -4,12 +4,6 @@
 
 **Email:** engr.carmenjoy14@gmail.com
 
-* I love reading books, watching programming video tutorials, and listening to music.
-
-* Developing a software application is one of my ultimate passion.
-
-* I am working in an IT company, and I aspire to become a competent Software Developer.
-
 **My current personal project:**
 
 * Library Management System using Angular and Firebase.
