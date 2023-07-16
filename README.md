@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carmen</h1>
 <h3 align="center">Software QA Engineer | Flutter Developer</h3>
 
-- 📫 How to reach me **carmenjoyp96@gmail.com**
-
 - ⚡ Fun fact **Programming is like a drug to me. I can't get enough of it, and I am always thinking about how to improve my skills and knowledge. It's a constant source of fascination and excitement for me, and I can't imagine my life without it. I am completely devoted to my craft and I am always looking for new ways to push the boundaries and create something amazing. (Thanks ChatGPT)**
 
 <h3 align="left">Languages and Tools:</h3>
