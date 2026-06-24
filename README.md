@@ -59,7 +59,7 @@ development and quality assurance. I specialize in web, mobile, and API testing
 
 ## 📫 Get in Touch
 
-- 📧 carmenpalsario.qc@gmail.com
+- 📧 carmenflutter7@gmail.com
 - 🌐 [cjp-portfolio-2025.vercel.app](https://cjp-portfolio-2025.vercel.app)
 - 💼 [linkedin.com/in/carmenpalsario0](https://linkedin.com/in/carmenpalsario0)
 
