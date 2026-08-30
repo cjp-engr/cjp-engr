@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Carmen</h1>
 
-**QA Engineer (Automation & Manual) | Flutter Developer | 7+ Years of Experience**
+<h4 align="center">QA Engineer (Automation & Manual) | Flutter Developer | 7+ Years of Experience</h4>
+
+
 
 ---
 
