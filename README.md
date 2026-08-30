@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Software QA Engineer and Flutter Developer who bridges the gap between 
+I'm a Software QA Engineer with experience in Flutter development who bridges the gap between 
 development and quality assurance. I specialize in web, mobile, and API testing 
 — fully remote, working with teams across the globe.
 
@@ -42,7 +42,7 @@ development and quality assurance. I specialize in web, mobile, and API testing
 - Thrive in collaborative, remote Agile environments
 - Experienced in coaching and onboarding junior QA and dev team members
 - Represent QA in client-facing and cross-functional meetings
-- Worked with diverse teams across the Philippines, US, India, Australia, Vietnam, and Germany
+- Worked with diverse teams across the Philippines, US, India, Australia, Vietnam, Ukraine and Germany
 
 ---
 
@@ -64,6 +64,6 @@ development and quality assurance. I specialize in web, mobile, and API testing
 ## 📫 Get in Touch
 
 - 📧 carmenflutter7@gmail.com
-- 🌐 [cjp-portfolio-2025.vercel.app](https://cjp-portfolio-2025.vercel.app)
+- 🌐 [carmen-palsario-portfolio.vercel.app](https://carmen-palsario-portfolio.vercel.app/)
 - 💼 [linkedin.com/in/carmenpalsario0](https://linkedin.com/in/carmenpalsario0)
 
