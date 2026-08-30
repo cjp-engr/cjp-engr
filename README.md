@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="carmen Palsario (2)" src="https://github.com/user-attachments/assets/258c5b62-e7f8-465d-adc7-1e11cfefd418" />
+
 <h1 align="center">Hi 👋, I'm Carmen</h1>
 
 **QA Engineer (Automation & Manual) | Flutter Developer | 7+ Years of Experience**
