@@ -1,4 +1,8 @@
-<img width="768" height="432" alt="Welcome to my github (2)" src="https://github.com/user-attachments/assets/881d5184-60e5-4826-90a6-211eb272af51" />
+<div align="center">
+
+<img width="576" height="324" alt="Welcome to my github" src="https://github.com/user-attachments/assets/23b0a221-4db9-4242-be5b-469d38cb5fb7" />
+
+</div>
 
 <h1 align="center">Hi 👋, I'm Carmen</h1>
 
