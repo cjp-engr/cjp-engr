@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1152" height="648" alt="Welcome to my github (1)" src="https://github.com/user-attachments/assets/d047ee26-cb87-4ef1-9997-fbcda4d59f4c" />
+<img width="960" height="540" alt="Welcome to my github (2)" src="https://github.com/user-attachments/assets/42253143-892e-4d89-b6f2-c0373f81d0b1" />
 
 </div>
 
