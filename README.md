@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="carmen Palsario (2)" src="https://github.com/user-attachments/assets/258c5b62-e7f8-465d-adc7-1e11cfefd418" />
+<img width="768" height="432" alt="Welcome to my github (2)" src="https://github.com/user-attachments/assets/881d5184-60e5-4826-90a6-211eb272af51" />
 
 <h1 align="center">Hi 👋, I'm Carmen</h1>
 
